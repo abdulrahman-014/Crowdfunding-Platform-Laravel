@@ -120,11 +120,11 @@ http://127.0.0.1:8000
 
 ### Campaign Details
 
-![Campaign Details](screenshots/S2.png)
+![Campaign Details](screenshots/S3.png)
 
 ### Donations
 
-![Donations](screenshots/S4.png)
+![Donation](screenshots/S4.png)
 ----------
 
 ## 📈 Future Improvements
