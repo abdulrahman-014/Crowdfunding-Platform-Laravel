@@ -110,18 +110,22 @@ http://127.0.0.1:8000
 
 ## 📸 Screenshots
 
-You can add screenshots here after uploading images.
+### Home Page
 
-Example:
+![Home](screenshots/S1.png)
 
-```
-screenshots/
-    home.png
-    create.png
-    details.png
-```
+### Create Campaign
 
----
+![Create Campaign](screenshots/S2.png)
+
+### Campaign Details
+
+![Campaign Details](screenshots/S2.png)
+
+### Donations
+
+![Donations](screenshots/S4.png)
+----------
 
 ## 📈 Future Improvements
 
